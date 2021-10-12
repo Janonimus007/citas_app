@@ -53,6 +53,7 @@ input[type="time"] {
 }
 
 .cita {
+  margin-top: 10px;
   padding: 2rem;
   background: white;
   border-bottom: 1px solid #e1e1e1;

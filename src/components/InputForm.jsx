@@ -8,6 +8,9 @@ const InputForm = (props) => {
         placeholder={props.placeholder}
         className={props.className}
         type={props.type}
+        name={props.name}
+        onChange={props.onChange}
+        value={props.value}
       />
     </>
   )
